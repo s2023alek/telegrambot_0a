@@ -2,6 +2,22 @@
  телеграм бот для чата копирайтеров  
   
 
+
+![1](https://github.com/s2023alek/telegrambot_0a/blob/69ef89a8b226e84a888367c0ad7bfbb8cd6c834e/README/Screenshot_1.png)
+
+![2](https://github.com/s2023alek/telegrambot_0a/blob/69ef89a8b226e84a888367c0ad7bfbb8cd6c834e/README/Screenshot_2.png)
+
+![3](https://github.com/s2023alek/telegrambot_0a/blob/69ef89a8b226e84a888367c0ad7bfbb8cd6c834e/README/Screenshot_3.png)
+
+![4](https://github.com/s2023alek/telegrambot_0a/blob/69ef89a8b226e84a888367c0ad7bfbb8cd6c834e/README/Screenshot_4.png)
+
+![5](https://github.com/s2023alek/telegrambot_0a/blob/69ef89a8b226e84a888367c0ad7bfbb8cd6c834e/README/Screenshot_5.png)
+
+![6](https://github.com/s2023alek/telegrambot_0a/blob/69ef89a8b226e84a888367c0ad7bfbb8cd6c834e/README/Screenshot_6.png)
+
+
+
+
 ## команды админа
 		
 1
